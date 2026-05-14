@@ -1,0 +1,30 @@
+{
+    "id": 126242564,
+    "name": "Flamewall",
+    "author": "Narwall",
+    "creators": ["Luksa"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://www.youtube.com/watch?v=x4Io4zkWVRw",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=x-0Ay06OQ8o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zLevii",
+            "link": "https://www.youtube.com/watch?v=LCd1aljMPWs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Layash",
+            "link": "https://www.youtube.com/watch?v=W2yLCl00LHk",
+            "percent": 74,
+            "hz": 240
+        }
+    ]
+}
