@@ -8,59 +8,6 @@
     "percentToQualify": "72",
     "password": "46290",
     "records": [
-        {
-            "user": "Trick",
-            "link": "https://www.youtube.com/watch?v=t0o4wsg36l0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=mxR1JQmQyrc",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "mindsdraf",
-            "link": "https://www.youtube.com/watch?v=alp09R3eG_4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Taiago",
-            "link": "https://www.youtube.com/watch?v=wdK7JTw24l0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "A6",
-            "link": "https://www.youtube.com/watch?v=gmWPsZ_g_O4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Netermind",
-            "link": "https://www.youtube.com/watch?v=J6YzmDtc__M",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "JesseGaming",
-            "link": "https://www.youtube.com/watch?v=kd2AK05D7ig",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "레전드아잉몰라요",
-            "link": "https://www.youtube.com/watch?v=2ADxeZiaX3c",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "XBelugaX",
-            "link": "https://www.youtube.com/watch?v=8-v-r8w-nqg",
-            "percent": 77,
-            "hz": 360
-        }
+
     ]
 }
