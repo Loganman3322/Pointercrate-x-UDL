@@ -8,17 +8,6 @@
     "percentToQualify": "79",
     "password": "46290",
     "records": [
-        {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=hJHiGeuahTI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Netermind",
-            "link": "https://www.youtube.com/watch?v=uqHsCNJxqmY",
-            "percent": 89,
-            "hz": 240
-        }
+
     ]
 }
